@@ -13,3 +13,10 @@ git add -A
 git commit -m "message"
 
 git diff
+git giff --cached
+git giff --staged
+
+git log
+git log --oneline
+
+git checkout HASH
