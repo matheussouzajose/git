@@ -20,3 +20,9 @@ git log
 git log --oneline
 
 git checkout HASH
+git checkout name-branch
+
+git checkout name-file
+git reset --hard
+
+git clean -f
