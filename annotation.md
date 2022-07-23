@@ -26,3 +26,19 @@ git checkout name-file
 git reset --hard
 
 git clean -f
+
+git clone url
+
+git push origin branch-name
+
+git branch
+git branch branch-name
+
+git checkout -b task-1
+git push --set-upstream origin develop
+git push -u origin develop
+
+git branch -d branch-name
+git push --delete origin branch-name
+
+git branch -m branch-name
