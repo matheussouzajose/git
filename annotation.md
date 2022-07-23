@@ -42,3 +42,5 @@ git branch -d branch-name
 git push --delete origin branch-name
 
 git branch -m branch-name
+
+resolvendo conflitos
