@@ -42,3 +42,10 @@ git branch -d branch-name
 git push --delete origin branch-name
 
 git branch -m branch-name
+
+git config --global alias.s status
+git config --global --unset alias.s status
+
+git remote -v
+
+git branch | grep name
